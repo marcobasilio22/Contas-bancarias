@@ -1,6 +1,6 @@
-#Validação de documentos
+# Validação de documentos
 
-##Como funciona?
+## Como funciona?
 
 Bom, esse projeto que eu criei, foi mais uma ideia de implementação para algum sistema futuro.
 No entanto, temos três(3) arquivos que podemos validar quatro(4) tipos de documentos, sendo eles:
